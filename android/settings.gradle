@@ -1,0 +1,3 @@
+rootProject.name = 'sdf_4255'
+
+include ':app'
